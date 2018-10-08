@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SearchProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a69f73a6-818a-4c75-a0c9-efdb06877780</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c0a0f998-965a-4bff-a394-cdc93c2891cd</id>
+      <masked>false</masked>
+      <name>product</name>
+   </variable>
+   <variable>
+      <defaultValue>[]</defaultValue>
+      <description></description>
+      <id>c42990c0-6ad4-4158-a289-8e5b821ce305</id>
+      <masked>false</masked>
+      <name>listOfProducts</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+New Test Suite,Firefox 62.0,,2018-10-05 13:07:17,2018-10-05 13:07:46,"29,330s",FAILED
+,,,,,,
+Test Cases/TestCases/BusquedaProducto,Firefox 62.0,,2018-10-05 13:07:17,2018-10-05 13:07:45,"27,461s",FAILED
+openBrowser,Firefox 62.0,,2018-10-05 13:07:18,2018-10-05 13:07:25,"7,029s",PASSED
+navigateToUrl,Firefox 62.0,,2018-10-05 13:07:25,2018-10-05 13:07:37,"12,161s",PASSED
+callTestCase,Firefox 62.0,,2018-10-05 13:07:37,2018-10-05 13:07:45,"7,713s",FAILED

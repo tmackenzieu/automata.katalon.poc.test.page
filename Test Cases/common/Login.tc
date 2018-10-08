@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b64701d-1daf-4c1f-9ff7-9dc8a3a2176f</testCaseGuid>
+   <variable>
+      <defaultValue>'none'</defaultValue>
+      <description></description>
+      <id>9328e518-4604-4113-92a3-c9ce1a856717</id>
+      <masked>false</masked>
+      <name>rut</name>
+   </variable>
+   <variable>
+      <defaultValue>'none'</defaultValue>
+      <description></description>
+      <id>4fffcf47-d373-4aa5-8435-698f22d62e91</id>
+      <masked>false</masked>
+      <name>psw</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite" time="29" tests="1" failures="0" errors="0">
+   <testsuite name="New Test Suite" tests="1" failures="0" errors="0" time="29" timestamp="2018-10-05 11:38:48" hostname="tmackenz - SAN-H97W3H2.usersad.everis.int" id="Test Suites/New Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\tmackenz\\Katalon Studio\\com.everis.poc\\Reports\\New Test Suite\\20181005_113832"/>
+         <property name="logFiles" value="C:\\Users\\tmackenz\\Katalon Studio\\com.everis.poc\\Reports\\New Test Suite\\20181005_113832\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\tmackenz\\Katalon Studio\\com.everis.poc\\Reports\\New Test Suite\\20181005_113832\\1538750349778.png"/>
+         <property name="hostName" value="tmackenz - SAN-H97W3H2.usersad.everis.int"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.7.1.1"/>
+         <property name="browser" value="Firefox 62.0"/>
+         <property name="hostAddress" value="169.254.203.254"/>
+         <property name="sessionId" value="8273ab36-f17c-4313-86b8-b103d74ea5e4"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestCases/BusquedaProducto" classname="Test Cases/TestCases/BusquedaProducto" status="PASSED">
+         <system-out><![CDATA[2018-10-05 11:38:48 - [TEST_CASE][PASSED] - Test Cases/TestCases/BusquedaProducto: Test Cases/TestCases/BusquedaProducto
+
+2018-10-05 11:38:49 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-10-05 11:38:56 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-10-05 11:38:56 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://www.pcfactory.cl' successfully
+
+2018-10-05 11:39:05 - [MESSAGE][PASSED] - Navigate to 'http://www.pcfactory.cl' successfully
+
+2018-10-05 11:39:05 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/common/Login' successfully
+
+2018-10-05 11:39:05 - [TEST_CASE][PASSED] - Test Cases/common/Login: Test Cases/common/Login
+
+2018-10-05 11:39:06 - [TEST_STEP][PASSED] - setText: Text '17781922-0' is set on object 'Object Repository/Common/Page_Principal/rut'
+
+2018-10-05 11:39:06 - [MESSAGE][PASSED] - Text '17781922-0' is set on object 'Object Repository/Common/Page_Principal/rut'
+
+2018-10-05 11:39:06 - [TEST_STEP][PASSED] - setText: Text 'h0laquetal' is set on object 'Object Repository/Common/Page_Principal/password'
+
+2018-10-05 11:39:06 - [MESSAGE][PASSED] - Text 'h0laquetal' is set on object 'Object Repository/Common/Page_Principal/password'
+
+2018-10-05 11:39:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Common/Page_Principal/btnLogin' is clicked on
+
+2018-10-05 11:39:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Common/Page_Principal/btnLogin' is clicked on
+
+2018-10-05 11:39:09 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-10-05 11:39:10 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\tmackenz\\Katalon Studio\\com.everis.poc\\Reports\\New Test Suite\\20181005_113832\\1538750349778.png]]
+
+2018-10-05 11:39:10 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Common/Page_Principal/logout' is present
+
+2018-10-05 11:39:10 - [MESSAGE][PASSED] - Object 'Object Repository/Common/Page_Principal/logout' is present
+
+2018-10-05 11:39:10 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/common/Login' successfully
+
+2018-10-05 11:39:10 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-10-05 11:39:17 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-10-05 11:38:48 - [TEST_SUITE][PASSED] - New Test Suite: Test Cases/TestCases/BusquedaProducto]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
